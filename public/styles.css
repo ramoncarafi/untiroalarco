@@ -128,4 +128,8 @@ iframe {
 .footer a:hover {
   color: #009688;
 }
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
 
