@@ -129,7 +129,7 @@ iframe {
   color: #009688;
 }
 .responsive-image {
-  max-width: 100%;
-  height: auto;
+  max-width: 150px;
+  max-height: 150px;
 }
 
